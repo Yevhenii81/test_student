@@ -1,0 +1,14 @@
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\bin\Debug\net8.0\Class_Student_hw_25_06_2024.exe
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\bin\Debug\net8.0\Class_Student_hw_25_06_2024.deps.json
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\bin\Debug\net8.0\Class_Student_hw_25_06_2024.runtimeconfig.json
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\bin\Debug\net8.0\Class_Student_hw_25_06_2024.dll
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\bin\Debug\net8.0\Class_Student_hw_25_06_2024.pdb
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.AssemblyInfoInputs.cache
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.AssemblyInfo.cs
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.csproj.CoreCompileInputs.cache
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.dll
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\refint\Class_Student_hw_25_06_2024.dll
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.pdb
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\Class_Student_hw_25_06_2024.genruntimeconfig.cache
+C:\Projects in VS\Class_Student_hw_25_06_2024\Class_Student_hw_25_06_2024\obj\Debug\net8.0\ref\Class_Student_hw_25_06_2024.dll
